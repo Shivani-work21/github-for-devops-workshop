@@ -1,0 +1,5 @@
+insert text in command.txt file in bash
+new line i added using vim command 
+this is use to create and open file 
+in this i had alreday created the command.txt file and first line i have added using echo command 
+this is vim command contxt from line 2 
